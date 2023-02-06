@@ -1,0 +1,15 @@
+C:\Users\zamir\source\repos\Problems\S1.1-13\S1.4\S1.4\bin\Debug\net6.0\S1.4.exe
+C:\Users\zamir\source\repos\Problems\S1.1-13\S1.4\S1.4\bin\Debug\net6.0\S1.4.deps.json
+C:\Users\zamir\source\repos\Problems\S1.1-13\S1.4\S1.4\bin\Debug\net6.0\S1.4.runtimeconfig.json
+C:\Users\zamir\source\repos\Problems\S1.1-13\S1.4\S1.4\bin\Debug\net6.0\S1.4.dll
+C:\Users\zamir\source\repos\Problems\S1.1-13\S1.4\S1.4\bin\Debug\net6.0\S1.4.pdb
+C:\Users\zamir\source\repos\Problems\S1.1-13\S1.4\S1.4\obj\Debug\net6.0\S1.4.csproj.AssemblyReference.cache
+C:\Users\zamir\source\repos\Problems\S1.1-13\S1.4\S1.4\obj\Debug\net6.0\S1.4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zamir\source\repos\Problems\S1.1-13\S1.4\S1.4\obj\Debug\net6.0\S1.4.AssemblyInfoInputs.cache
+C:\Users\zamir\source\repos\Problems\S1.1-13\S1.4\S1.4\obj\Debug\net6.0\S1.4.AssemblyInfo.cs
+C:\Users\zamir\source\repos\Problems\S1.1-13\S1.4\S1.4\obj\Debug\net6.0\S1.4.csproj.CoreCompileInputs.cache
+C:\Users\zamir\source\repos\Problems\S1.1-13\S1.4\S1.4\obj\Debug\net6.0\S1.4.dll
+C:\Users\zamir\source\repos\Problems\S1.1-13\S1.4\S1.4\obj\Debug\net6.0\refint\S1.4.dll
+C:\Users\zamir\source\repos\Problems\S1.1-13\S1.4\S1.4\obj\Debug\net6.0\S1.4.pdb
+C:\Users\zamir\source\repos\Problems\S1.1-13\S1.4\S1.4\obj\Debug\net6.0\S1.4.genruntimeconfig.cache
+C:\Users\zamir\source\repos\Problems\S1.1-13\S1.4\S1.4\obj\Debug\net6.0\ref\S1.4.dll

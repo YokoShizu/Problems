@@ -1,0 +1,15 @@
+C:\Users\zamir\Documents\GitHub\CSharpProblems\Problems\S2.1-28\S2.22\S2.22\S2.22\bin\Debug\net6.0\S2.22.exe
+C:\Users\zamir\Documents\GitHub\CSharpProblems\Problems\S2.1-28\S2.22\S2.22\S2.22\bin\Debug\net6.0\S2.22.deps.json
+C:\Users\zamir\Documents\GitHub\CSharpProblems\Problems\S2.1-28\S2.22\S2.22\S2.22\bin\Debug\net6.0\S2.22.runtimeconfig.json
+C:\Users\zamir\Documents\GitHub\CSharpProblems\Problems\S2.1-28\S2.22\S2.22\S2.22\bin\Debug\net6.0\S2.22.dll
+C:\Users\zamir\Documents\GitHub\CSharpProblems\Problems\S2.1-28\S2.22\S2.22\S2.22\bin\Debug\net6.0\S2.22.pdb
+C:\Users\zamir\Documents\GitHub\CSharpProblems\Problems\S2.1-28\S2.22\S2.22\S2.22\obj\Debug\net6.0\S2.22.csproj.AssemblyReference.cache
+C:\Users\zamir\Documents\GitHub\CSharpProblems\Problems\S2.1-28\S2.22\S2.22\S2.22\obj\Debug\net6.0\S2.22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zamir\Documents\GitHub\CSharpProblems\Problems\S2.1-28\S2.22\S2.22\S2.22\obj\Debug\net6.0\S2.22.AssemblyInfoInputs.cache
+C:\Users\zamir\Documents\GitHub\CSharpProblems\Problems\S2.1-28\S2.22\S2.22\S2.22\obj\Debug\net6.0\S2.22.AssemblyInfo.cs
+C:\Users\zamir\Documents\GitHub\CSharpProblems\Problems\S2.1-28\S2.22\S2.22\S2.22\obj\Debug\net6.0\S2.22.csproj.CoreCompileInputs.cache
+C:\Users\zamir\Documents\GitHub\CSharpProblems\Problems\S2.1-28\S2.22\S2.22\S2.22\obj\Debug\net6.0\S2.22.dll
+C:\Users\zamir\Documents\GitHub\CSharpProblems\Problems\S2.1-28\S2.22\S2.22\S2.22\obj\Debug\net6.0\refint\S2.22.dll
+C:\Users\zamir\Documents\GitHub\CSharpProblems\Problems\S2.1-28\S2.22\S2.22\S2.22\obj\Debug\net6.0\S2.22.pdb
+C:\Users\zamir\Documents\GitHub\CSharpProblems\Problems\S2.1-28\S2.22\S2.22\S2.22\obj\Debug\net6.0\S2.22.genruntimeconfig.cache
+C:\Users\zamir\Documents\GitHub\CSharpProblems\Problems\S2.1-28\S2.22\S2.22\S2.22\obj\Debug\net6.0\ref\S2.22.dll

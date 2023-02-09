@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\zamir\\source\\repos\\Problems\\S2.1-28\\S2.8\\S2.8\\S2.8\\S2.8.csproj": {}
+    "C:\\Users\\zamir\\Documents\\GitHub\\CSharpProblems\\Problems\\S2.1-28\\S2.8\\S2.8\\S2.8\\S2.8.csproj": {}
   },
   "projects": {
-    "C:\\Users\\zamir\\source\\repos\\Problems\\S2.1-28\\S2.8\\S2.8\\S2.8\\S2.8.csproj": {
+    "C:\\Users\\zamir\\Documents\\GitHub\\CSharpProblems\\Problems\\S2.1-28\\S2.8\\S2.8\\S2.8\\S2.8.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zamir\\source\\repos\\Problems\\S2.1-28\\S2.8\\S2.8\\S2.8\\S2.8.csproj",
+        "projectUniqueName": "C:\\Users\\zamir\\Documents\\GitHub\\CSharpProblems\\Problems\\S2.1-28\\S2.8\\S2.8\\S2.8\\S2.8.csproj",
         "projectName": "S2.8",
-        "projectPath": "C:\\Users\\zamir\\source\\repos\\Problems\\S2.1-28\\S2.8\\S2.8\\S2.8\\S2.8.csproj",
+        "projectPath": "C:\\Users\\zamir\\Documents\\GitHub\\CSharpProblems\\Problems\\S2.1-28\\S2.8\\S2.8\\S2.8\\S2.8.csproj",
         "packagesPath": "C:\\Users\\zamir\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zamir\\source\\repos\\Problems\\S2.1-28\\S2.8\\S2.8\\S2.8\\obj\\",
+        "outputPath": "C:\\Users\\zamir\\Documents\\GitHub\\CSharpProblems\\Problems\\S2.1-28\\S2.8\\S2.8\\S2.8\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

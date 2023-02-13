@@ -1,0 +1,15 @@
+C:\Users\zamir\Documents\GitHub\CSharpProblems\Problems\S4.1-9\S47\S47\bin\Debug\net6.0\S47.exe
+C:\Users\zamir\Documents\GitHub\CSharpProblems\Problems\S4.1-9\S47\S47\bin\Debug\net6.0\S47.deps.json
+C:\Users\zamir\Documents\GitHub\CSharpProblems\Problems\S4.1-9\S47\S47\bin\Debug\net6.0\S47.runtimeconfig.json
+C:\Users\zamir\Documents\GitHub\CSharpProblems\Problems\S4.1-9\S47\S47\bin\Debug\net6.0\S47.dll
+C:\Users\zamir\Documents\GitHub\CSharpProblems\Problems\S4.1-9\S47\S47\bin\Debug\net6.0\S47.pdb
+C:\Users\zamir\Documents\GitHub\CSharpProblems\Problems\S4.1-9\S47\S47\obj\Debug\net6.0\S47.csproj.AssemblyReference.cache
+C:\Users\zamir\Documents\GitHub\CSharpProblems\Problems\S4.1-9\S47\S47\obj\Debug\net6.0\S47.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zamir\Documents\GitHub\CSharpProblems\Problems\S4.1-9\S47\S47\obj\Debug\net6.0\S47.AssemblyInfoInputs.cache
+C:\Users\zamir\Documents\GitHub\CSharpProblems\Problems\S4.1-9\S47\S47\obj\Debug\net6.0\S47.AssemblyInfo.cs
+C:\Users\zamir\Documents\GitHub\CSharpProblems\Problems\S4.1-9\S47\S47\obj\Debug\net6.0\S47.csproj.CoreCompileInputs.cache
+C:\Users\zamir\Documents\GitHub\CSharpProblems\Problems\S4.1-9\S47\S47\obj\Debug\net6.0\S47.dll
+C:\Users\zamir\Documents\GitHub\CSharpProblems\Problems\S4.1-9\S47\S47\obj\Debug\net6.0\refint\S47.dll
+C:\Users\zamir\Documents\GitHub\CSharpProblems\Problems\S4.1-9\S47\S47\obj\Debug\net6.0\S47.pdb
+C:\Users\zamir\Documents\GitHub\CSharpProblems\Problems\S4.1-9\S47\S47\obj\Debug\net6.0\S47.genruntimeconfig.cache
+C:\Users\zamir\Documents\GitHub\CSharpProblems\Problems\S4.1-9\S47\S47\obj\Debug\net6.0\ref\S47.dll

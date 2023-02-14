@@ -1,0 +1,15 @@
+C:\Users\zamir\Documents\GitHub\CSharpProblems\Problems\A3.1-10\A3.2\A3.2\bin\Debug\net6.0\A3.2.exe
+C:\Users\zamir\Documents\GitHub\CSharpProblems\Problems\A3.1-10\A3.2\A3.2\bin\Debug\net6.0\A3.2.deps.json
+C:\Users\zamir\Documents\GitHub\CSharpProblems\Problems\A3.1-10\A3.2\A3.2\bin\Debug\net6.0\A3.2.runtimeconfig.json
+C:\Users\zamir\Documents\GitHub\CSharpProblems\Problems\A3.1-10\A3.2\A3.2\bin\Debug\net6.0\A3.2.dll
+C:\Users\zamir\Documents\GitHub\CSharpProblems\Problems\A3.1-10\A3.2\A3.2\bin\Debug\net6.0\A3.2.pdb
+C:\Users\zamir\Documents\GitHub\CSharpProblems\Problems\A3.1-10\A3.2\A3.2\obj\Debug\net6.0\A3.2.csproj.AssemblyReference.cache
+C:\Users\zamir\Documents\GitHub\CSharpProblems\Problems\A3.1-10\A3.2\A3.2\obj\Debug\net6.0\A3.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zamir\Documents\GitHub\CSharpProblems\Problems\A3.1-10\A3.2\A3.2\obj\Debug\net6.0\A3.2.AssemblyInfoInputs.cache
+C:\Users\zamir\Documents\GitHub\CSharpProblems\Problems\A3.1-10\A3.2\A3.2\obj\Debug\net6.0\A3.2.AssemblyInfo.cs
+C:\Users\zamir\Documents\GitHub\CSharpProblems\Problems\A3.1-10\A3.2\A3.2\obj\Debug\net6.0\A3.2.csproj.CoreCompileInputs.cache
+C:\Users\zamir\Documents\GitHub\CSharpProblems\Problems\A3.1-10\A3.2\A3.2\obj\Debug\net6.0\A3.2.dll
+C:\Users\zamir\Documents\GitHub\CSharpProblems\Problems\A3.1-10\A3.2\A3.2\obj\Debug\net6.0\refint\A3.2.dll
+C:\Users\zamir\Documents\GitHub\CSharpProblems\Problems\A3.1-10\A3.2\A3.2\obj\Debug\net6.0\A3.2.pdb
+C:\Users\zamir\Documents\GitHub\CSharpProblems\Problems\A3.1-10\A3.2\A3.2\obj\Debug\net6.0\A3.2.genruntimeconfig.cache
+C:\Users\zamir\Documents\GitHub\CSharpProblems\Problems\A3.1-10\A3.2\A3.2\obj\Debug\net6.0\ref\A3.2.dll

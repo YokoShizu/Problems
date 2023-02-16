@@ -1,0 +1,15 @@
+C:\Users\zamir\Documents\GitHub\CSharpProblems\Problems\L1.1-24\L1.15\L1.15\bin\Debug\net6.0\L1.15.exe
+C:\Users\zamir\Documents\GitHub\CSharpProblems\Problems\L1.1-24\L1.15\L1.15\bin\Debug\net6.0\L1.15.deps.json
+C:\Users\zamir\Documents\GitHub\CSharpProblems\Problems\L1.1-24\L1.15\L1.15\bin\Debug\net6.0\L1.15.runtimeconfig.json
+C:\Users\zamir\Documents\GitHub\CSharpProblems\Problems\L1.1-24\L1.15\L1.15\bin\Debug\net6.0\L1.15.dll
+C:\Users\zamir\Documents\GitHub\CSharpProblems\Problems\L1.1-24\L1.15\L1.15\bin\Debug\net6.0\L1.15.pdb
+C:\Users\zamir\Documents\GitHub\CSharpProblems\Problems\L1.1-24\L1.15\L1.15\obj\Debug\net6.0\L1.15.csproj.AssemblyReference.cache
+C:\Users\zamir\Documents\GitHub\CSharpProblems\Problems\L1.1-24\L1.15\L1.15\obj\Debug\net6.0\L1.15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zamir\Documents\GitHub\CSharpProblems\Problems\L1.1-24\L1.15\L1.15\obj\Debug\net6.0\L1.15.AssemblyInfoInputs.cache
+C:\Users\zamir\Documents\GitHub\CSharpProblems\Problems\L1.1-24\L1.15\L1.15\obj\Debug\net6.0\L1.15.AssemblyInfo.cs
+C:\Users\zamir\Documents\GitHub\CSharpProblems\Problems\L1.1-24\L1.15\L1.15\obj\Debug\net6.0\L1.15.csproj.CoreCompileInputs.cache
+C:\Users\zamir\Documents\GitHub\CSharpProblems\Problems\L1.1-24\L1.15\L1.15\obj\Debug\net6.0\L1.15.dll
+C:\Users\zamir\Documents\GitHub\CSharpProblems\Problems\L1.1-24\L1.15\L1.15\obj\Debug\net6.0\refint\L1.15.dll
+C:\Users\zamir\Documents\GitHub\CSharpProblems\Problems\L1.1-24\L1.15\L1.15\obj\Debug\net6.0\L1.15.pdb
+C:\Users\zamir\Documents\GitHub\CSharpProblems\Problems\L1.1-24\L1.15\L1.15\obj\Debug\net6.0\L1.15.genruntimeconfig.cache
+C:\Users\zamir\Documents\GitHub\CSharpProblems\Problems\L1.1-24\L1.15\L1.15\obj\Debug\net6.0\ref\L1.15.dll

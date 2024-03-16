@@ -8,4 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = S1._8
-build_property.ProjectDir = C:\Users\zamir\source\repos\Problems\S1.1-13\S1.8\S1.8\
+build_property.ProjectDir = C:\Users\MiAir\OneDrive\Документы\GitHub\Problems\CSharp\S1.1-13\S1.8\S1.8\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

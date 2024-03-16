@@ -1,2 +1,2 @@
-# CSharpProblems
-There are my solutions to some C# problems from c-sharp.pro
+# Problems
+Solutions to different problems in c-family languages: C, C# and C++

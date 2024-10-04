@@ -1,2 +1,2 @@
 # C problems
-Solutions to problems from school
+My solutions to problems from School 21

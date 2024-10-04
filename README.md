@@ -1,2 +1,2 @@
 # Problems
-Solutions to different problems in c-family languages: C, C# and C++
+Solutions to different problems from School21 and test tasks

@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include <math.h>
 
 #ifndef S21_MATRIX_H
 #define S21_MATRIX_H
